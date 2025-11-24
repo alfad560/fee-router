@@ -2,5 +2,5 @@
 
 Kérdés / hiba esetén:
 - GitHub Issues
-- Email: support@feerouter.xyz
-- Discord: https://discord.gg/feerouter
+- Email: akospandur1@gmail.com
+- Discord: [https://discord.gg/feerouter](https://discord.gg/R6atUDQ9)
