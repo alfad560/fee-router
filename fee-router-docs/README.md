@@ -56,12 +56,5 @@ példa: 200 × 0.02 ETH × 2% = 0.08 ETH/nap
 
 ---
 
-## 📞 Kapcsolat (példa)
-- Email: contact@feerouter.xyz
-- X/Twitter: @feerouter
-- Web: https://feerouter.xyz
-
----
-
 ## 🪪 Licenc
 MIT — lásd [`LICENSE`](./LICENSE)
